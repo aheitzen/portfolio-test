@@ -1,0 +1,35 @@
+:root {
+	--primary-color: #F1C8DA;
+	--secondary-color: #DDBFD1;
+}
+
+html, body {
+	height: 100%;
+	width: 100%;
+	
+}
+
+
+
+
+
+#border {
+	border: solid 20px white;
+	height: 100%;
+	width: 100%;
+	
+
+}
+
+#hero {
+	height: 100%;
+	width: 100%;
+	background-color: var(--primary-color);
+}
+
+#about {
+	height: 100%;
+	width: 100%;
+	background-color: var(--primary-color);
+
+}
